@@ -1,0 +1,13 @@
+{
+  "name": "actions-codigofacilito-d4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "jimp": "^1.6.0"
+  }
+}
