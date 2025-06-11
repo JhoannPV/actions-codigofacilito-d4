@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/actions-codigofacilito-d4:latest
+          tags: ghcr.io/jhoannpv/actions-codigofacilito-d4:latest
